@@ -3,16 +3,13 @@
   "version": "1.0.0",
   "description": "All Together!",
   "main": "App.tsx",
-
   "scripts": {
     "production": "webpack --mode production",
     "development": "webpack serve --hot --mode development"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3",
